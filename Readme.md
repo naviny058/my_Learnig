@@ -15,4 +15,4 @@ here i will upload all my learing and will continue to write this so today i sol
             updateImage()
         }
 ```
-as you can see this is a very cool way of incrementing to a variable and if the variable will end then it will start again and also for decrement
+as you can see this is a very cool way of incrementing to a variable and if the variable will end then it will start again and also for decrement. will use this readme as my personal diary
